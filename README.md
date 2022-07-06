@@ -1,3 +1,5 @@
+Deprecated repository, please go to: https://bitbucket.corp.zscaler.com/projects/CBI/repos/pulseaudio-module-xrdp/browse
+
 [![Build Status](https://github.com/neutrinolabs/pulseaudio-module-xrdp/actions/workflows/build.yml/badge.svg)](https://github.com/neutrinolabs/pulseaudio-module-xrdp/actions)
 [![Gitter (xrdp)](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/neutrinolabs/xrdp-questions)
 
